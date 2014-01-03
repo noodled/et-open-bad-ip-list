@@ -10,12 +10,11 @@
 #
 # This list was last updated on Fri Jan  3 13:27:02 2014
 #
-# last_seen	IP		context
-Jan 03 2014	64.202.116.125	Fiesta EK
-Jan 03 2014	67.159.16.250	Fiesta EK Gate
-Jan 03 2014	69.64.52.64	Fiesta EK
-Jan 03 2014	212.83.189.84	Neutrino EK
-Jan 03 2014	193.169.245.76	Magnitude EK
+Jan 03 2014; 64.202.116.125/32; Fiesta EK
+Jan 03 2014; 67.159.16.250/32; Fiesta EK Gate
+Jan 03 2014; 69.64.52.64/32; Fiesta EK
+Jan 03 2014; 212.83.189.84/32; Neutrino EK
+Jan 03 2014; 193.169.245.76/32; Magnitude EK
 
 
 
