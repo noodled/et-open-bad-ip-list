@@ -1,0 +1,21 @@
+# Disclaimer - You may not use this list without acceptance of the below:
+#
+# No assertion is made, nor implied, that any of the below listed IP addresses are accurate, malicious, hostile, or engaged in nefarious acts inclusive
+# of any descriptions in the context field.  Use this list at your own risk.  By using this list in any capacity or capability you release all claims of
+# damages and shall not hold or perceive any liablity against the publisher for:  damage, unexpected events or results, decision, or reputation damage, 
+# even those resulting from willful or intentional neglect.  The context field is not used to imply 
+#
+# No claims made against this data shall be honored; no assertions have been made about the quality, accuracy, useability, actionability,
+# reputation, merit, or hostility of the below findings, inclusive of 
+#
+# This list was last updated on Fri Jan  3 13:27:02 2014
+#
+# last_seen	IP		context
+Jan 03 2014	64.202.116.125	Fiesta EK
+Jan 03 2014	67.159.16.250	Fiesta EK Gate
+Jan 03 2014	69.64.52.64	Fiesta EK
+Jan 03 2014	212.83.189.84	Neutrino EK
+Jan 03 2014	193.169.245.76	Magnitude EK
+
+
+
