@@ -6,7 +6,7 @@
 # even those resulting from willful or intentional neglect.  The context field is not used to imply 
 #
 # No claims made against this data shall be honored; no assertions have been made about the quality, accuracy, useability, actionability,
-# reputation, merit, or hostility of the below findings, inclusive of 
+# reputation, merit, or hostility of the below findings, inclusive of context and nomenclature used to describe the findings.
 #
 Jan 03 2014; 64.202.116.125/32; Fiesta EK
 Jan 03 2014; 67.159.16.250/32; Fiesta EK Gate
@@ -17,5 +17,5 @@ Jan 06 2014; 193.169.244.179/32; Magnitude EK
 Jan 06 2014; 81.169.145.162/32; ASPROX/Kuluoz
 Jan 06 2014; 212.83.191.176/32; Neutrino EK
 Jan 06 2014; 188.116.34.246/32; Styx Exploit Kit
-
+Jan 06 2014; 193.169.244.224/32; Magnitude EK
 
