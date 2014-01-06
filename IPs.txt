@@ -3,7 +3,7 @@
 # No assertion is made, nor implied, that any of the below listed IP addresses are accurate, malicious, hostile, or engaged in nefarious acts inclusive
 # of any descriptions in the context field.  Use this list at your own risk.  By using this list in any capacity or capability you release all claims of
 # damages and shall not hold or perceive any liablity against the publisher for:  damage, unexpected events or results, decision, or reputation damage, 
-# even those resulting from willful or intentional neglect.  The context field is not used to imply 
+# even those resulting from willful or intentional neglect.
 #
 # No claims made against this data shall be honored; no assertions have been made about the quality, accuracy, useability, actionability,
 # reputation, merit, or hostility of the below findings, inclusive of context and nomenclature used to describe the findings.
