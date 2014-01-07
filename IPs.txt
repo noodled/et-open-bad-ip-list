@@ -18,4 +18,5 @@ Jan 06 2014; 81.169.145.162/32; ASPROX/Kuluoz
 Jan 06 2014; 212.83.191.176/32; Neutrino EK
 Jan 06 2014; 188.116.34.246/32; Styx Exploit Kit
 Jan 06 2014; 193.169.244.224/32; Magnitude EK
+Jan 07 2014; 65.111.171.183/32; Styx/Magnitude EK
 
