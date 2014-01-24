@@ -33,4 +33,7 @@ Jan 16 2014; 192.95.10.212/32; Nuclear EK
 Jan 16 2014; 192.95.10.209/32; Nuclear EK
 Jan 17 2014; 212.83.142.197/32; Neutrino EK
 Jan 22 2014; 148.251.21.48/32; Zusy C&C
+Jan 24 2014; 212.83.160.187/32; Neutrino EK
+Jan 24 2014; 192.95.6.121/32; Nuclear EK
+
 
