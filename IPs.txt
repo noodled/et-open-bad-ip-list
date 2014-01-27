@@ -38,3 +38,5 @@ Jan 24 2014; 192.95.6.121/32; Nuclear EK
 Jan 27 2014; 71.18.27.55/32; Goon EK 
 Jan 27 2014; 176.31.24.102/32; Goon EK
 Jan 27 2014; 46.4.149.201/32; Goon EK
+Jan 27 2014; 95.211.169.162/32; TDLv4+ Alphaeffects.net see https://lists.emergingthreats.net/pipermail/emerging-sigs/2012-September/020431.html
+
