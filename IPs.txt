@@ -39,4 +39,6 @@ Jan 27 2014; 71.18.27.55/32; Goon EK
 Jan 27 2014; 176.31.24.102/32; Goon EK
 Jan 27 2014; 46.4.149.201/32; Goon EK
 Jan 27 2014; 95.211.169.162/32; TDLv4+ Alphaeffects.net see https://lists.emergingthreats.net/pipermail/emerging-sigs/2012-September/020431.html
+Jan 28 2014; 149.154.64.180/32; [a-z]{3,6}\.pp\.ua DGA cesspool
+Jan 29 2014; 212.83.162.125/32; Neutrino EK
 
