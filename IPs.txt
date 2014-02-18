@@ -45,4 +45,6 @@ Jan 29 2014; 67.205.117.121/32; Darkleech -- it's back
 Jan 31 2014; 50.7.248.170/32; Zusy C&C
 Feb 18 2014; 67.228.43.248/32; Goon EK jhls.com.br
 Feb 18 2014; 212.83.165.96/32; Neutrino EK
+Feb 18 2014; 212.83.166.174/32; Neutrino EK
+Feb 18 2014; 89.45.14.0/24; Infinity/Redkit2/Goon EK landing or EK gate.
 
