@@ -43,4 +43,4 @@ Jan 28 2014; 149.154.64.180/32; [a-z]{3,6}\.pp\.ua DGA cesspool
 Jan 29 2014; 212.83.162.125/32; Neutrino EK
 Jan 29 2014; 67.205.117.121/32; Darkleech -- it's back
 Jan 31 2014; 50.7.248.170/32; Zusy C&C
-
+Feb 18 2014; 67.228.43.248/32; Goon EK jhls.com.br
