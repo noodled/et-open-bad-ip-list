@@ -47,4 +47,7 @@ Feb 18 2014; 67.228.43.248/32; Goon EK jhls.com.br
 Feb 18 2014; 212.83.165.96/32; Neutrino EK
 Feb 18 2014; 212.83.166.174/32; Neutrino EK
 Feb 18 2014; 89.45.14.0/24; Infinity/Redkit2/Goon EK landing or EK gate.
+Feb 20 2014; 209.239.113.39/32; Phoenix EK
+Feb 20 2014; 31.41.221.130/32; Nuclear EK
+Feb 25 2014; 64.120.137.0/27; TDS EK redirect /27 WHOIS allocated on Hostnoc
 
