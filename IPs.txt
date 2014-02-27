@@ -50,4 +50,6 @@ Feb 18 2014; 89.45.14.0/24; Infinity/Redkit2/Goon EK landing or EK gate.
 Feb 20 2014; 209.239.113.39/32; Phoenix EK
 Feb 20 2014; 31.41.221.130/32; Nuclear EK
 Feb 25 2014; 64.120.137.0/27; TDS EK redirect /27 WHOIS allocated on Hostnoc
+Feb 27 2014; 64.202.116.124/32; counter.php?id= gate
+Feb 27 2014; 216.155.145.105/32; Phoenix EK
 
