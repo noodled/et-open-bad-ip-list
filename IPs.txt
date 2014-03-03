@@ -53,4 +53,5 @@ Feb 25 2014; 64.120.137.0/27; TDS EK redirect /27 WHOIS allocated on Hostnoc
 Feb 27 2014; 64.202.116.124/32; counter.php?id= gate
 Feb 27 2014; 216.155.145.105/32; Phoenix EK
 Feb 27 2014; 216.155.145.96/28; Magnitude EK
+Mar 03 2014; 85.17.23.216/32; Fake Flash/8x8 byte gate possible Andromeda gang
 
