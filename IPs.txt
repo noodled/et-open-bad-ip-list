@@ -58,4 +58,6 @@ Mar 05 2014; 190.123.47.198/32; Unknown 16-byte JavaScript EK initial landing
 Mar 11 2014; 23.229.34.64/26; yellowtailmedia/rfpmedia TDLv4+ malvertising and payload
 Jun 30 2014; 83.166.234.0/24; Hostile cesspool network with repeated hosting the WxH Sweet Orange redirector
 Aug 06 2014; 70.186.131.0/24; Win32/BrowseFox.H C&Cs
-
+Sep 29 2014; 148.251.154.29/24; Confirmed Nuclear EK Redirect/gate
+Sep 29 2014; 148.251.154.3/24; Confirmed Nuclear EK Redirect/gate
+Sep 29 2014; 95.211.188.216/24; Confirmed Nuclear EK Redirect/gate
