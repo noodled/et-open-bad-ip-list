@@ -63,5 +63,6 @@ Sep 29 2014; 148.251.154.3/32; Confirmed Nuclear EK Redirect/gate
 Sep 29 2014; 95.211.188.216/32; Confirmed Nuclear EK Redirect/gate
 Oct 17 2014; 185.48.58.8/32; Hostile C&C Server zzsqluwqmgjbjfjow.com C=US ST=USA L=NY O=Company Ltd OU=office CN=web
 Oct 28 2014; 167.160.46.0/24; AngerEK on much of this network
-Jan 13 2014; 37.200.64.0/12; RIG Exploit Kit, Selectel Ltd.
+Jan 13 2015; 37.200.64.0/12; RIG Exploit Kit, Selectel Ltd.
+Jan 14 2015; 209.239.114.232/32; Phoenix/Fiesta EK
 
