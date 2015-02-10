@@ -75,3 +75,4 @@ Feb 02 2015; 173.208.202.83/32; Adverts Nuclear and other EK gate
 Feb 02 2015; 173.208.202.84/32; Adverts Nuclear and other EK gate
 Feb 02 2015; 173.208.202.85/32; Adverts Nuclear and other EK gate
 Feb 02 2015; 173.208.202.64/27; Suspected Nuclear and other EK gate but not 100% sure the CIDR 32 is hostile
+Feb 10 2015; 151.80.94.250/32; Angler EK
