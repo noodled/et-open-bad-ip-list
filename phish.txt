@@ -1,0 +1,14 @@
+# Disclaimer - You may not use this list without acceptance of the below:
+#
+# No assertion is made, nor implied, that any of the below listed IP addresses are accurate, malicious, hostile, or engaged in nefarious acts.
+# Use this list at your own risk.  By using this list in any capacity or capability you release all claims of damages and shall not hold or perceive any
+# liability against the publisher for:  damage, unexpected events or results, decision, or reputation damage, even those resulting from wilful
+# or intentional neglect.
+#
+# No claims made against this data shall be honored; no assertions have been made about the quality, accuracy, usability, actionability,
+# reputation, merit, or hostility of the below findings.
+#
+# All fields are \x09 tab separated
+#
+# Date_Detected Type	IPv4	FQDN	Phish_URL	Kit_URL	Drop-box_EMail
+2015-03-12 13:20:00 CDT	"E-Mail/Linked In" Phish	104.171.5.16	104.171.5.16	http://104.171.5.16/%7Eoutofnowhere/34433/Receipt/index.html	http://104.171.5.16/~outofnowhere/34433/Receipt.zip	mariamiller212@gmail.com
