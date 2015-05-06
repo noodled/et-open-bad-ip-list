@@ -20,4 +20,4 @@
 2015-04-24 13:24:00 CDT	"Google Drive"	Phish	5.9.215.121	gcomm.in	http://gcomm.in/xtrafficlib/doc/	http://gcomm.in/xtrafficlib/gdrivenagod.zip	edwardpay01@gmail.com
 2015-04-27 14:22:00 CDT	"Dropbox Phish"	Phish	162.144.118.109	www.necosfamilymarket.com	http://www.necosfamilymarket.com/dpbx/dpbx/index.php	http://www.necosfamilymarket.com/dpbx.zip	carolr.ciancutti@gmail.com
 2015-04-27 14:51:00 CDT	"Dropbox Phish"	Phish	217.195.198.18	mehmetmumcu.com	http://mehmetmumcu.com/image/dpopbx/dpbx/dpbx/	http://mehmetmumcu.com/image/dpopbx.zip	lordwire32@gmail.com
-
+2015-05-06 10:13:00 CDT	"Dropbox Phish"	Phish	108.160.158.55	www.tokoecig.com	http://www.tokoecig.com/templates/db/db/box/	http://www.tokoecig.com/templates/db.zip	willysnows1952@gmail.com
